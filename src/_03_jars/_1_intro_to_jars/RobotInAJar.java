@@ -1,8 +1,9 @@
 package _03_jars._1_intro_to_jars;
 
+import org.jointheleague.graphical.robot.Robot;
 
 public class RobotInAJar {
-	
+	Robot rob = new Robot();
 	/* 1.   Create a String variable and initialize it to your name  */
 	
 	
